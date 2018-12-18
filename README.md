@@ -1,4 +1,4 @@
-# register-form-JS-PHP-SQL
+# register form with session
 # JS
 # PHP
 # SQL
