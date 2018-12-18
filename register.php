@@ -14,7 +14,7 @@ require 'query.php';
 	<title>Register</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <script src="js/form.js"></script>
+  <script src="form.js"></script>
 
 </head>
 <body>
