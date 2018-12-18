@@ -1,2 +1,6 @@
 # register-form-JS-PHP-SQL
-d
+# JS
+# PHP
+# SQL
+# HTML
+# CSS
