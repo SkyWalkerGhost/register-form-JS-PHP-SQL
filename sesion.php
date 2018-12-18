@@ -1,4 +1,4 @@
-<?php require_once('DB/conf.php');?>
+<?php require_once('conf.php');?>
 
 <?php
 

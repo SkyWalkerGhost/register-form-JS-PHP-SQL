@@ -2,7 +2,7 @@
 <?php
 // ფაილის გამოძახება
 
-require 'DB/conf.php';
+require 'conf.php';
 require 'query.php';
 
 ?>
@@ -12,7 +12,7 @@ require 'query.php';
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Register</title>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="js/form.js"></script>
 
