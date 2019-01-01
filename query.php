@@ -35,7 +35,7 @@
                 $emailcheck =  'ეს ელ-ფოსტა დაკავებულია სცადეთ სხვა !';
            
             } else {
-                               
+                $user_password = md5($user_password);                   
             if(mb_strlen($user_name) !=0 && mb_strlen($user_mail) !=0 && mb_strlen($user_password) >=6 !=0  ) {
                 
             $AddNewData=" INSERT INTO user_info (`user_name` ,  `user_mail` ,  `user_password`)
